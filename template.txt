@@ -1,0 +1,46 @@
+<html>
+
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <style type="text/css">
+        @import url('https://themes.googleusercontent.com/fonts/css?kit=dpiI8CyVsrzWsJLBFKehGpLhv3qFjX7dUn1mYxfCXhI');
+        <!-- All text in black -->
+        <!-- main Title will be in size 21pt, font: Ariel-->
+        <!-- subTitle will be in size 18pt, font: Ariel -->
+        <!-- paragraph will be in size 12pt, font: Roboto -->
+        <!-- bullets and numbers same as paragraph -->
+        <!-- do background light pink -->
+
+    </style>
+</head>
+
+<body class="c27 doc-content">
+    <h1 class="c4"><span class="c9">{Main Title}</span></h1>
+    <h2 class="c23"><span class="c24">Overview</span></h1>
+    <p class="c20"><span class="c21">{text}</span></p>
+    <h2 class="c23"><span class="c24 c26">Background</span></h1>
+    <p class="c20"><span class="c21">{text}</span></p>
+    <h2 class="c23"><span class="c24 c26">Terminology</span></h1>
+    <ul>
+	<li>
+		<p class="c20"><span class="c21">{text}</span></p>
+    	</li>
+    <ul>
+    <h2 class="c23"><span class="c24 c26">Goals</span></h1>
+    <ul>
+	<li>
+		<p class="c20"><span class="c21">{text}</span></p>
+    	</li>
+    <ul>
+    <h2 class="c23"><span class="c24 c26">Risks</span></h1>
+    <ul>
+	<li>
+    		<p class="c20"><span class="c21">{text}</span></p>
+    	</li>
+    <ul>
+    <!-- Please analyze generally the provided code and generate an explanation focusing up to the top 5 features,
+that don't include the first 5 questions above.
+Consider the most important aspects and provide detailed insights on those, and give each feature a title. -->
+</body>
+
+</html>
